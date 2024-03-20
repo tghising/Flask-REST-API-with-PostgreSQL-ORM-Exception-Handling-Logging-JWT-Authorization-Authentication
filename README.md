@@ -1,5 +1,5 @@
-# Real Time Object Detection 
-Real Time Object Detection
+# Flask REST API with Exception Handling, Logging, ORM models & migration, and JWT Authorization & Authentication
+Flask REST API with Exception Handling, Logging, ORM models & migration, and JWT Authorization & Authentication
 
 ## Dependency Management of Python/Flask
 1.To create python/Flask dependency management
