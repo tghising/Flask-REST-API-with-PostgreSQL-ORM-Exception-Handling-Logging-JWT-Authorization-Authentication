@@ -4,7 +4,7 @@ from flask_restful import Resource
 
 class Home(Resource):
     def get(self):
-        return jsonify(message="Welcome to the Home Page: Object Detection")
+        return jsonify(message="Welcome to the Home Page")
 
     def post(self):
         return jsonify(message="POST method not allowed for this endpoint"), 405
